@@ -1,3 +1,3 @@
 clase numero 7 turno mañana
-descripcion 
+  descripcion 
   conectando claude con Netlify
